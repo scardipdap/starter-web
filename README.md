@@ -7,3 +7,5 @@ As stated above, the main purpose is to provide simple examplse for Git training
 ##Deployment
 This is a simple web project. blah blah blah
 ##How to Contribute
+##Copyright
+Copyright 2020 Chris Scardino
