@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Chris Scardino	chris@scardipdap.com	@fucktwitter
 # THANKS
 
     <name>
