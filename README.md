@@ -10,4 +10,4 @@ This is a simple web project. blah blah blah
 ##How to Contribute
 Please fork this repository and then submit change requests for review
 ##Copyright
-Copyright 2020 Chris Scardino
+Copyright 2020 Chris Scardino. All Rights Reserved.
